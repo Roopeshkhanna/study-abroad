@@ -1,0 +1,15 @@
+princeton=[
+    "Not available in the provided data",
+    "Middle States Commission on Higher Education (Accredited since 1921, Next Review: 2032)",
+    "admission.princeton.edu",
+    "English",
+    "4% (2023-2024)",
+    "$59,710 (2023-2024 undergraduate tuition)",
+    "Institutional grants ($57,898 avg.), Federal grants, Pell grants, State/local scholarships",
+    "True (SAT/ACT considered but not required)",
+    "SAT, ACT, English Proficiency Test",
+    "On-campus",
+    "45+ undergraduate majors",
+    "Housing, dining, libraries, labs, sports facilities",
+    "Not provided in the text"
+]
