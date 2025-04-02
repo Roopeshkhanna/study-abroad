@@ -1,15 +1,186 @@
-princeton=[
-    "Not available in the provided data",
-    "Middle States Commission on Higher Education (Accredited since 1921, Next Review: 2032)",
-    "admission.princeton.edu",
-    "English",
-    "4% (2023-2024)",
-    "$59,710 (2023-2024 undergraduate tuition)",
-    "Institutional grants ($57,898 avg.), Federal grants, Pell grants, State/local scholarships",
-    "True (SAT/ACT considered but not required)",
-    "SAT, ACT, English Proficiency Test",
-    "On-campus",
-    "45+ undergraduate majors",
-    "Housing, dining, libraries, labs, sports facilities",
-    "Not provided in the text"
-]
+Princeton University={
+  "university_id":  186131,
+  "accredation": "Middle States Commission on Higher Education",
+  "website": "https://www.princeton.edu",
+  "language": "English",
+  "acceptance_rate": 0.04,
+  "tution_fee": 59810,
+  "scholarship": true,
+  "application_deadline": "2025-01-01",
+  "entrance_exam_unive": false,
+  "entrance_exams": "English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "600 acres",
+  "no_of_programs_offered": 36,
+  "intl_student_percentage": 12,
+  "campus_facilities": "Housing, dining, libraries, research centers, athletic facilities",
+  "ranking": 22
+}
+
+
+Massachusetts Institute of Technology={
+  "university_id": 166683,
+  "accredation": "New England Commission of Higher Education (Accredited since 1929, Next Review: 2029)",
+  "website": "https://mitadmissions.org",
+  "language": "English",
+  "acceptance_rate": 0.04,
+  "tution_fee": 59750,
+  "scholarship": true,
+  "application_deadline": "2025-01-05",
+  "entrance_exam_unive": true,
+  "entrance_exams": "SAT, ACT, English Proficiency Test",
+  "mode_of_study": "On-campus",
+  "campus_size": "168 acres",
+  "no_of_programs_offered": 50,
+  "intl_student_percentage": 10,
+  "campus_facilities": "Housing, dining, libraries, labs, sports facilities",
+  "ranking": 2
+}
+
+
+Harvard University={
+  "university_id": 166027,
+  "accredation": "New England Commission of Higher Education",
+  "website": "https://www.harvard.edu",
+  "language": "English",
+  "acceptance_rate": 0.04,
+  "tution_fee": 59076,
+  "scholarship": true,
+  "application_deadline": "2025-01-01",
+  "entrance_exam_unive": false,
+  "entrance_exams": "English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "209 acres",
+  "no_of_programs_offered": 50,
+  "intl_student_percentage": 15,
+  "campus_facilities": "Housing, dining, libraries, research centers, athletic facilities",
+  "ranking": 4
+}
+
+Stanford University={
+  "university_id": 243744,
+  "accredation": "WASC Senior College and University Commission",
+  "website": "https://www.stanford.edu",
+  "language": "English",
+  "acceptance_rate": 0.04,
+  "tution_fee": 62484,
+  "scholarship": true,
+  "application_deadline": "2025-01-02",
+  "entrance_exam_unive": false,
+  "entrance_exams": "English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "8,180 acres",
+  "no_of_programs_offered": 67,
+  "intl_student_percentage": 12,
+  "campus_facilities": "Housing, dining, libraries, research centers, athletic facilities",
+  "ranking": 6
+}
+Yale University={
+  "university_id": 130794,
+  "accredation": "New England Commission of Higher Education",
+  "website": "https://www.yale.edu",
+  "language": "English",
+  "acceptance_rate": 0.05,
+  "tution_fee": 64700,
+  "scholarship": true,
+  "application_deadline": "2025-01-02",
+  "entrance_exam_unive": false,
+  "entrance_exams": "English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "373 acres",
+  "no_of_programs_offered": 60,
+  "intl_student_percentage": 11,
+  "campus_facilities": "Housing, dining, libraries, research centers, athletic facilities",
+  "ranking": 23
+}
+University of Chicago={
+  "university_id": 144050,
+  "accredation": "Higher Learning Commission",
+  "website": "https://www.uchicago.edu",
+  "language": "English",
+  "acceptance_rate": 0.06,
+  "tution_fee": 66939,
+  "scholarship": true,
+  "application_deadline": "2025-01-03",
+  "entrance_exam_unive": false,
+  "entrance_exams": "English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "217 acres",
+  "no_of_programs_offered": 60,
+  "intl_student_percentage": 12,
+  "campus_facilities": "Housing, dining, libraries, research centers, athletic facilities",
+  "ranking": 21
+}
+Johns Hopkins University={
+  "university_id": 162928,
+  "accredation": "Middle States Commission on Higher Education",
+  "website": "https://www.jhu.edu",
+  "language": "English",
+  "acceptance_rate": 0.08,
+  "tution_fee": 63340,
+  "scholarship": true,
+  "application_deadline": "2025-01-02",
+  "entrance_exam_unive": false,
+  "entrance_exams": "English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "140 acres",
+  "no_of_programs_offered": 50,
+  "intl_student_percentage": 15,
+  "campus_facilities": "Housing, dining, libraries, research centers, athletic facilities",
+  "ranking": 16
+}
+University of Pennsylvania={
+  "university_id": 215062,
+  "accredation": "Middle States Commission on Higher Education",
+  "website": "https://www.upenn.edu",
+  "language": "English",
+  "acceptance_rate": 0.06,
+  "tution_fee": 66104,
+  "scholarship": true,
+  "application_deadline": "2025-01-05",
+  "entrance_exam_unive": false,
+  "entrance_exams": "English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "299 acres",
+  "no_of_programs_offered": 90,
+  "intl_student_percentage": 14,
+  "campus_facilities": "Housing, dining, libraries, research centers, athletic facilities",
+  "ranking": 11
+}
+
+California Institute of Technology={
+  "university_id": 110404,
+  "accredation": "Western Association of Schools and Colleges",
+  "website": "https://www.caltech.edu",
+  "language": "English",
+  "acceptance_rate": 0.03,
+  "tution_fee": 63255,
+  "scholarship": true,
+  "application_deadline": "2025-01-03",
+  "entrance_exam_unive": false,
+  "entrance_exams": "SAT/ACT (optional), English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "124 acres",
+  "no_of_programs_offered": 50,
+  "intl_student_percentage": 10,
+  "campus_facilities": "Research labs, libraries, student housing, athletic facilities",
+  "ranking": 10
+}
+Duke University={
+  "university_id": 198419,
+  "accredation": "Southern Association of Colleges and Schools Commission on Colleges",
+  "website": "https://www.duke.edu",
+  "language": "English",
+  "acceptance_rate": 0.06,
+  "tution_fee": 65805,
+  "scholarship": true,
+  "application_deadline": "2025-01-03",
+  "entrance_exam_unive": false,
+  "entrance_exams": "SAT/ACT (optional), English Proficiency Test (for non-native speakers)",
+  "mode_of_study": "On-campus",
+  "campus_size": "8,693 acres",
+  "no_of_programs_offered": 60,
+  "intl_student_percentage": 13,
+  "campus_facilities": "Libraries, research labs, athletic facilities, student housing",
+  "ranking": 61
+}
